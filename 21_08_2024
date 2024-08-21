@@ -1,0 +1,53 @@
+fun main() {
+//     val numbers =arrayOf(1,2,3,4,5)
+//     val words:Array<String> = arrayOf("chintu","chintu")
+//     val squares = Array(5){i -> i * i }
+	
+//     var one=numbers[2]
+//     var two=words[1]
+    
+//     println("numb = $one")
+//     println("name = $two")
+    
+//     numbers[0] = 10
+//     println(numbers[0])
+    
+//     for (num in numbers)
+//     {
+//         println(num)
+//     }
+  //--------------------------------------------------------
+    /*2D ARRAY*/
+    
+//     val mat:Array<Array<Int>> = arrayOf(arrayOf(1,2,3),arrayOf(4,5,6),arrayOf(7,8,9))
+//     println("elements at row 0,coloumn1: ${mat[0][1]}")
+//     /*printing whole matrix*/
+//     for(num in mat){
+//         for(nums in num)
+//         {
+//             print("  $nums")
+//         }
+//         println()
+//     }
+    //------------------------------------------------------------
+    //*data conversions/*package
+   
+//     val x:Int=100
+//     val y:Long=x.toLong() /*we use ".toLong "to convert int to long*/
+//     val z:Float=x.toFloat()/*we use ".toFloat "to convert int to float*/
+//     println(y)
+//     println(z)
+    
+    //---------------------------------------------------------------
+//     /*safe and unsafe casting*/
+//     
+//     var a="chintu"
+//     var b:String = a as String
+//     println("unsafe casting result : $b")
+//     var c:String? = a as? String
+//     println("safe castig result : $c")
+//  /*   var d:Int = a as Int /*{this two lines should not to be used it will crash the programme}*/
+//     println("unsafe casting as int result : $d") 		*/
+//     var e:Int? = a as? Int
+//     println("safe casting as int result : $e")
+}
