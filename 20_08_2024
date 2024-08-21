@@ -1,0 +1,47 @@
+---------------------------------------------
+// fun main(){
+//     val a = 10
+//     val b = 20
+//     val result = "sum of $a and $b is ${a + b}"
+//     println(result)
+// }
+---------------------------------------------
+// fun main(){
+//     val letter: Char
+// 	letter = 'A'
+//     print("$letter")
+//     print('\n')
+//     println('\$')
+//     print('\\')
+// }
+------------------------------------------
+// fun main(){
+//     val name: String
+//     name = 
+//    """CHANDRAKANTH
+// CHANDRAKANTH
+// CHANDRAKANTH
+// CHANDRAKANTH
+// CHANDRAKANTH"""
+//     print("$name")
+// 
+----------------------------------------
+// fun main(){
+//     val name: String
+//     name = 
+//    		"""kowsik
+//     CHANDRAKANTH
+//         CHANDRAKANTH
+//             CHANDRAKANTH
+//                CHANDRAKANTH"""
+//     print("$name")
+// }
+---------------------------------------
+fun main(){
+    val C:String="""
+    		Chandrakanth
+    Chandrakanth	    Chandrakanth
+    		Chandrakanth
+    				"""
+    print(C)
+}
