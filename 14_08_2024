@@ -1,0 +1,37 @@
+class Person{
+    var kotlin ="hell"
+    fun display()
+    {
+        println(kotlin)
+    }
+}
+fun main()
+{
+    val person =Person()
+	person.display()
+}
+fun main(args:Array<String>) {
+//     var a=40
+//     print(a)
+//     var `try` = 20
+//     print(`try`)
+    
+    
+//     var a=40
+//     print(a)
+//     val c= 20
+//     c=c+a+12
+//     print(c)
+    
+    
+//     var a=20
+//     var b:String
+//     print(a)
+//     b="hi"
+//     print(b)
+    
+    
+    var message ="hell"
+    print(message)
+}
+// print(message)  [out side]
